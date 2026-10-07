@@ -1,4 +1,18 @@
-# 🚶 App Caminhadas
+# Desafio APP Caminhadas
+
+| | |
+|---|---|
+| **Instituição** | SENAI |
+| **Curso** | Técnico em Desenvolvimento de Sistemas |
+| **Unidade curricular** | SESI CE 356 |
+| **Atividade** | Desafio APP Caminhadas |
+| **Aluno** | Matheus Guilherme Teixeira Silva |
+| **Turma** | 3B |
+| **Professores** | Wellington |
+| **Data** | 07/10/2026 |
+
+---
+# App Caminhadas
 
 Aplicativo para registrar e acompanhar caminhadas, com mapa, rota, cálculo de calorias, foto e armazenamento local.
 
@@ -14,18 +28,30 @@ Aplicativo para registrar e acompanhar caminhadas, com mapa, rota, cálculo de c
 
 ![Splash](img/Splash_TelaEscura.png)
 
+---
 
-| Splash | Home | Nova caminhada | Detalhes |
-|:--:|:--:|:--:|:--:|
-| <img src="img/splash.png" width="180"> | <img src="img/home.png" width="180"> | <img src="img/nova.png" width="180"> | <img src="img/detalhes.png" width="180"> |
+![NovaCaminhada](img/NovaCaminhada_TemaClaro.png)
+
+---
+
+![Mapa](img/Mapa_TemaClaro.png)
+
+---
+
+![Salvar](img/CaminhadaSalva_TemaClaro.png)
+
+---
+
+![Final](img/Caminhadas_TemaClaro.png)
+
+---
+
 
 ## Tecnologias
 HTML, CSS, JavaScript, [Leaflet](https://leafletjs.com), OpenStreetMap e Geolocation API.
 
 ## Como rodar
-1. Clone o repositório: `git clone https://github.com/SEU-USUARIO/app-caminhadas.git`
+1. Clone o repositório: `git clone https://github.com/MatheusGuilherme25088/Desafios_App_Caminhadas.git`
 2. Abra a pasta no VS Code.
 3. Rode o `index.html` com a extensão **Live Server**.
 
-## Demo
-https://SEU-USUARIO.github.io/app-caminhadas/
