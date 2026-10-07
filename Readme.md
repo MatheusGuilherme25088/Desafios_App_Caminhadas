@@ -48,7 +48,7 @@ Aplicativo para registrar e acompanhar caminhadas, com mapa, rota, cálculo de c
 
 
 ## Tecnologias
-HTML, CSS, JavaScript, [Leaflet](https://leafletjs.com), OpenStreetMap e Geolocation API.
+HTML, CSS, JavaScript, Leaflet, OpenStreetMap e Geolocation API.
 
 ## Como rodar
 1. Clone o repositório: `git clone https://github.com/MatheusGuilherme25088/Desafios_App_Caminhadas.git`
